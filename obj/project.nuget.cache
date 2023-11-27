@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F7wTTuK3W/NRGjxWO984I1Y8znCtc9kfl3+AwdKze2M5WWQCTnnGKLkgblhphb/zvpcRx8rY0QNI5WSV2IBOnw==",
+  "dgSpecHash": "6PyLaKIAj6QEAecQilOrPz2a9YU+O/fYFv1Sj3f8SaSXr9zkzM42RT5NhNG5CmHMqrOEmuZRBqGlP+/lclPF6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
+  "projectFilePath": "C:\\Users\\DIMSYS\\Documents\\AplicacionWeb\\https---github.com-LuzRS-LSMcode-1\\ServidorWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIMSYS\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\DIMSYS\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

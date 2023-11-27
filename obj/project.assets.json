@@ -789,11 +789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
+      "projectUniqueName": "C:\\Users\\DIMSYS\\Documents\\AplicacionWeb\\https---github.com-LuzRS-LSMcode-1\\ServidorWeb.csproj",
       "projectName": "ServidorWeb",
-      "projectPath": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
+      "projectPath": "C:\\Users\\DIMSYS\\Documents\\AplicacionWeb\\https---github.com-LuzRS-LSMcode-1\\ServidorWeb.csproj",
       "packagesPath": "C:\\Users\\DIMSYS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\obj\\",
+      "outputPath": "C:\\Users\\DIMSYS\\Documents\\AplicacionWeb\\https---github.com-LuzRS-LSMcode-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DIMSYS\\AppData\\Roaming\\NuGet\\NuGet.Config"
