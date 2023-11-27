@@ -784,19 +784,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\DIMSYS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LSM\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
+      "projectUniqueName": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
       "projectName": "ServidorWeb",
-      "projectPath": "E:\\LSM\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\LSM\\Proyecto\\ServidorWeb\\obj\\",
+      "projectPath": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\ServidorWeb.csproj",
+      "packagesPath": "C:\\Users\\DIMSYS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DIMSYS\\Documents\\Proyecto\\ServidorWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DIMSYS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -844,7 +844,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }
